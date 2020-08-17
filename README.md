@@ -2,7 +2,7 @@
 
 ### 📖 Quote of the Week
 
-> Think and wonder, wonder and think. - Dr Suess
+> Be the designer of your world and not merely the consumer of it. ― James Clear
 
 ### :eyes: More about me
 - 🌱 I’m currently exercising my [ReactJS](http://reactjs.org/) skills!
